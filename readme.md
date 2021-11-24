@@ -2,11 +2,10 @@
 
 npm init
 
-npm install express ejs googleapis 
+npm install express ejs googleapis
 
-npm install -D nodemon 
+npm install -D nodemon
 
 # Python
 
-pip install gspread oauth2client
-
+pip install gspread
